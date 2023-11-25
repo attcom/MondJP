@@ -13,4 +13,4 @@ This is a free to use repo, u can change everything you want about it, contribut
 
 # EXAMPLE
 
-![]https://guilt.shx.is/6kKmUGrxK.png
+![image]https://guilt.shx.is/6kKmUGrxK.png
