@@ -1,6 +1,6 @@
 # EXAMPLE
 
-![image]([https://guilt.shx.is/6kKMvVulx.png])
+![image](https://guilt.shx.is/6kKMvVulx.png)
 
 
 # ABOUT
