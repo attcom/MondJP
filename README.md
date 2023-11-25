@@ -6,6 +6,10 @@ MondJP - Mond Rainmeter Skin But in Japanese
 
 1.0
 
+# DISCLAIMER
+
+this is a work in progress repo, so not everything is perfect.
+
 
 # DESCRIPTION
 
